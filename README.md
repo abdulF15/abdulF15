@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Fatah</h1>
-<img align="center" alt="webDeveloper" width="100%" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
+<img align="center" alt="webDeveloper" width="100%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+
+
 <h3 align="justify">A student who is in the process of learning to become a Fullstack web developer</h3>
 
 <h3 align="left">Connect with me:</h3>
